@@ -37,6 +37,8 @@ header{
 }
 
 main{
-    width: 80%;
+    background-color: rgb(199, 128, 128);
     margin: auto;
+    height: 100vh;
+    padding: 0 15px;
 }
